@@ -1,0 +1,11 @@
+bin/
+build/
+dist/
+gradle/
+.*
+!.gitignore
+gradlew*
+settings.gradle
+gradle.properties
+deployer.properties
+context.xml
